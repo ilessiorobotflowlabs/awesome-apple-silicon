@@ -35,6 +35,7 @@ Contribution guidelines forthcoming. If you have something to add before then, y
 
 ### Docker
 - A [Tech Preview](https://www.docker.com/blog/download-and-try-the-tech-preview-of-docker-desktop-for-m1/) is available. 2020-12-16
+- [docker_mlx_cpp](https://github.com/RobotFlow-Labs/docker_mlx_cpp) - Give Docker containers full Apple Silicon Metal GPU access. 107+ operations via MLX.
 
 ## Windows
 
